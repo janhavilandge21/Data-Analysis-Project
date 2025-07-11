@@ -1,64 +1,63 @@
-# Data-Analysis-Project
+# 📊 Data Analysis Projects
 
-# 🏏 IPL Data Analysis Project
-
-This project explores data from the Indian Premier League (IPL) to uncover team and player performance trends using Python and data visualization.
+Welcome to my collection of **Data Analysis Projects** built using Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, and Excel. Each project explores a real-world dataset and applies data cleaning, exploration, visualization, and insights extraction techniques.
 
 ---
 
-## 📁 Project Structure
+## 🧠 Projects Overview
 
-ipl-data-analysis/
-├── Dataset/
-├── Notebook/
-├── Images/
-├── README.md
+### 1. 📁 IPL Data Analysis
+- **Goal**: Analyze IPL matches and player performance data.
+- **Techniques**: EDA, grouping, aggregation, visualization.
+- **Tools**: Python, Pandas, Seaborn, Matplotlib
 
+### 2. 🖼️ Image Dataset Analysis
+- **Goal**: Analyze metadata from image files (size, color channels, resolutions).
+- **Techniques**: NumPy image arrays, histograms, image dimension analysis.
+- **Tools**: Python, NumPy, Matplotlib, OpenCV
 
+### 3. 🌍 Country Economy Analysis
+- **Goal**: Analyze countries by Birth Rate, Internet Users, and Income Group.
+- **Techniques**: Data filtering, correlation, categorical grouping.
+- **Tools**: Python, Pandas, Seaborn
 
 ---
 
-## 🔍 Objective
+## 🔧 Tools and Technologies
 
-To analyze historical IPL data and derive insights on top teams, key players, winning strategies, and performance patterns.
-
----
-
-## 🧰 Tools & Libraries Used
-
-- Python
+- Python 🐍
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Jupyter Notebook
+- Power BI / Excel (for dashboard-based projects)
+- Git & GitHub
 
 ---
 
-## 🔧 Data Cleaning
+## 📁 Folder Structure
 
-- Handled missing values and duplicates
-- Converted match dates to datetime
-- Normalized team and player names
+Data-Analysis-Projects/
+│
+├── IPL-Data-Analysis/
+│ └── ipl_analysis.ipynb
+│ └── ipl_data.csv
+│
+├── Image-Analysis/
+│ └── image_analysis.ipynb
+│ └── images/
+│
+├── Country-GDP-Analysis/
+│ └── gdp_analysis.ipynb
+│ └── data.csv
+│
+├── README.md
 
----
+2.Install the required Python libraries:
+pip install pandas numpy matplotlib seaborn jupyter
 
-## 📊 Key Insights
+3.Run the Jupyter Notebooks:
+jupyter notebook
 
-- Most successful team by win %: **Mumbai Indians**
-- Toss win doesn’t guarantee match win
-- Virat Kohli is the highest run scorer
-- Bowlers have more influence in final matches
 
----
 
-## 📈 Visualizations
 
-<img src="Images/top_teams_wins.png" width="500">
-<img src="Images/player_performance.png" width="500">
-
----
-
-## 📌 Conclusion
-
-- Toss doesn’t majorly affect match outcomes
-- Teams with balanced bowling lineups perform better
-- Data can help teams draft better squads.
