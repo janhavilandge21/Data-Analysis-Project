@@ -2,7 +2,7 @@
 
 Welcome to my collection of **Data Analysis Projects** built using Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, and Excel. Each project explores a real-world dataset and applies data cleaning, exploration, visualization, and insights extraction techniques.
 
-📂 Dataset
+# 📂 Dataset
 Source: [Kaggle / Open Data / Company Dataset]
 
 Format: CSV / Excel / SQL Database
@@ -17,7 +17,7 @@ Columns Example:
 
 . Shape: rows × columns
 
-🛠️ Tools & Libraries
+# 🛠️ Tools & Libraries
 
 Python 3
 
@@ -31,7 +31,7 @@ Seaborn → Statistical plots (heatmap, pairplot, boxplot, etc.)
 
 SQL / Excel / Power BI (optional, for extended analysis)
 
-🔎 Data Analysis Workflow
+# 🔎 Data Analysis Workflow
 
 Data Collection → Load dataset (CSV, Excel, SQL).
 
@@ -59,7 +59,7 @@ Data Visualization
 
 Highlight key findings & patterns.
 
-📊 Example Insights
+# 📊 Example Insights
 
 Certain categories perform significantly better than others.
 
@@ -67,13 +67,13 @@ Strong correlation exists between X and Y.
 
 Seasonal trends impact performance in specific time periods.
 
-🚀 How to Run
+# 🚀 How to Run
 
 Run the Jupyter Notebook:
 
 jupyter notebook Analysis.ipynb
 
-📌 Future Improvements
+# 📌 Future Improvements
 
 . Add predictive modeling (Machine Learning).
 
