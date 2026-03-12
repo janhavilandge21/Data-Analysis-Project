@@ -23,7 +23,7 @@ This project demonstrates how **Generative AI can simplify data analysis for non
 
 ## 1️⃣ Business Analytics Dashboard
 
-![Business Analytics Dashboard](images/dashboard1.png)
+![Business Analytics Dashboard](Dashboard1.png)
 
 This dashboard shows important **business KPIs and performance metrics**, including:
 
@@ -48,7 +48,7 @@ These visualizations help organizations understand **user behavior and website p
 
 ## 2️⃣ SQL Query and Data Exploration Interface
 
-![SQL Query Dashboard](images/dashboard2.png)
+![SQL Query Dashboard](Dashboard2.png)
 
 This interface allows analysts to:
 
