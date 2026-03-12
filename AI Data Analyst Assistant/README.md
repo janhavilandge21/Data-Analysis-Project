@@ -154,29 +154,6 @@ The system displays:
 
 ---
 
-# 📁 Project Structure
-
-```id="6krsjz"
-AI-Data-Analyst-Agent
-
-data/
-   sales_dataset.csv
-
-images/
-   dashboard1.png
-   dashboard2.png
-
-app.py
-ai_sql_agent.py
-database_setup.py
-sales.db
-
-README.md
-requirements.txt
-```
-
----
-
 # ⚙️ Installation Guide
 
 Clone the repository
