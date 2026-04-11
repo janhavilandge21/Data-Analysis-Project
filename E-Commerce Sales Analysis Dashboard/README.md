@@ -49,3 +49,5 @@ streamlit run streamlit_app.py  # Launch interactive dashboard
 - Interactive Dashboard Development (Streamlit + Plotly)
 - Data Storytelling for non-technical stakeholders
 
+<img width="2676" height="1517" alt="sales_dashboard" src="https://github.com/user-attachments/assets/c22e3dc5-b2d5-4be4-8ffd-f36e690849bc" />
+
